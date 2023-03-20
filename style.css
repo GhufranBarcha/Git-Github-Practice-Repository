@@ -1,3 +1,11 @@
 .color{
-    color: blue;
+    color: rgb(156, 9, 9);
+    text-align: center;
+    margin: 10rem auto;
+}
+
+.color:hover{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
